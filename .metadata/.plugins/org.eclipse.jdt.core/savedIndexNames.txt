@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/Users/HayNaS/Downloads/Stanford106AAssignments/.metadata/.plugins/org.eclipse.jdt.core
+450268592.index
