@@ -13,12 +13,15 @@ public class  ExpandableArray extends ConsoleProgram {
   private Object[] array1 = new Object[22];
 	
    
-  Scanner input =new Scanner(System.in);
+ 
+
+
+Scanner input =new Scanner(System.in);
 
   
    
   
-  public Object laoo() {
+  public Object[] getArray1() {
 
 	   
 	  // Scanner input =new Scanner(System.in);
@@ -38,7 +41,7 @@ public class  ExpandableArray extends ConsoleProgram {
 		   
 		   // check the return method to array1
 		   
-		   return laoo();
+		   return getArray1();
 	   }
    
    
